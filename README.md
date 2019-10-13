@@ -1,4 +1,4 @@
-# 3D Shooter Base
+# 2D Shooter Base
 
 Grunden för en 2D-shooter; att användas i undervisningen i Programmering 1.
 
